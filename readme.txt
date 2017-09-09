@@ -1,0 +1,1 @@
+This CPP project shows how Pailler Crypto Algorithm works.  
