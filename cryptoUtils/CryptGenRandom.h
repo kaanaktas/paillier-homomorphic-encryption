@@ -1,8 +1,6 @@
 /*
  * CryptGenRandom.h
  *
- *  Created on: 26 Tem 2015
- *      Author: MkkUser
  */
 
 #ifndef CRYPTGENRANDOM_H_

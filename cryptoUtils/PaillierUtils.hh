@@ -1,8 +1,6 @@
 /*
  * add.h
- *
- *  Created on: 05 Nis 2015
- *      Author: MkkUser
+
  */
 
 #ifndef ADD_H_

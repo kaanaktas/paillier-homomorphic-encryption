@@ -1,8 +1,6 @@
 //============================================================================
-// Name        : PaillierCppProject.cpp
+// Name        : Paillier.cpp
 // Author      : kaktas
-// Version     :
-// Copyright   : Your copyright notice
 //============================================================================
 
 #include <cmath>
